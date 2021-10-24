@@ -1,0 +1,11 @@
+C:\Users\wirioliveira\source\repos\SistemaLogin\SistemaLogin\bin\Debug\SistemaLogin.exe.config
+C:\Users\wirioliveira\source\repos\SistemaLogin\SistemaLogin\bin\Debug\SistemaLogin.exe
+C:\Users\wirioliveira\source\repos\SistemaLogin\SistemaLogin\bin\Debug\SistemaLogin.pdb
+C:\Users\wirioliveira\source\repos\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.csproj.AssemblyReference.cache
+C:\Users\wirioliveira\source\repos\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.Form1.resources
+C:\Users\wirioliveira\source\repos\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.Properties.Resources.resources
+C:\Users\wirioliveira\source\repos\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.csproj.GenerateResource.cache
+C:\Users\wirioliveira\source\repos\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.csproj.CoreCompileInputs.cache
+C:\Users\wirioliveira\source\repos\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.exe
+C:\Users\wirioliveira\source\repos\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.pdb
+C:\Users\wirioliveira\source\repos\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.FormLogin.resources
